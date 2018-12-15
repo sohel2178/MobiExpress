@@ -1,0 +1,22 @@
+{
+  "name": "mobi_accounts",
+  "version": "1.0.0",
+  "description": "Vehicle Trackin Account Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "No Test Command"
+  },
+  "keywords": [
+    "Accounts",
+    "Rest",
+    "Api"
+  ],
+  "author": "Sohel Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.13",
+    "morgan": "^1.9.1"
+  }
+}
